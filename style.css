@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient( #2bedff 30%,#007efb 40%,#f73434 70%,#ffee00 90%,#35f05d 110%);
+
+}
+p{
+font-size:50px;
+
+}
+h1{
+font-size:70px;
+
+}
+img{
+height: 600px;
+width: 800px;
+
+}
+#hello{
+border-style:dashed;
+border-radius:50px;
+
+}
